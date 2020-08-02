@@ -1,0 +1,21 @@
+ Bucle “for”
+ Su sintaxis es la palabra clave for, seguida de paréntesis y luego abrir y cerrar llaves.
+Dentro de los paréntesis necesitaremos tres cosas. 
+1- Declarar una variable, esto es sobre lo que se repetirá el bucle
+2- Una expresión condicional, el ciclo continuará sucediendo hasta que esta declaración sea false.
+3- Incrementaremos nuestra variable.
+Quedando asi:
+for (let i = 0 ; i < 10; i++) {
+// | Declaramos una variable | Expresión condcicional | Incrementamos la variable |
+    console.log(i);
+}
+Operadores lógicos: 
+Estos son utiles para combinar dos expresiones de igualdad y preguntar si alguna de las dos es verdadera, 
+si ambas son verdaderas o si ninguna de ellas es verdadera. Existen varios tipos de operadores que son los siguientes:
+1- &&: Es el operador “Y” (“AND”).
+
+2- ||: Es el operador “Ó” (“OR”). Determinará si una de las expresiones es true.
+- Devolverá true si una (o ambas) de las expresiones es true. 
+- Devolverá false si AMBAS expresiones son false.
+
+3- !: Es el operador “NOT” (“NO”).Este es el valor booleano opuesto de lo que se le pasa.
