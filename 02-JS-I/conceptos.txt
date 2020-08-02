@@ -1,0 +1,19 @@
+ Explicacione de conceptos  en JavaScript
+
+ Variables: Para crear una variable en JavaScript utilizamos la palabra clave var, 
+ seguida de un espacio y el nombre de la variable.
+ Ejemplo==> var nombre = 'Juan'; // Vamos a usar principalemente esta forma
+
+ Tipos de datos Strings: Cualquier texto se definirán entre comillas, ya sea simple o doble. 
+
+Funciones: Declaramos un bloque de codigo y para eso comenzará con la palabra clave function.
+ Luego viene un paréntesis abierto y uno cercano. Y finalmente, abra y cierre los corchetes. 
+ ejemplo function miFuncion() {}
+
+ - Funciones con argumentos:Si agregamos una variable a los paréntesis cuando declaramos la función, 
+ podemos usar esta variable dentro de nuestra función.
+ 
+ Condicionales o Flujo de Control
+If:es una forma de que nuestra función verifique una condicion 
+si algo es verdadero retornará true o avanzando si no lo es devuelve false.
+
