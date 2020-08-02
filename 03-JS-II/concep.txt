@@ -19,3 +19,12 @@ si ambas son verdaderas o si ninguna de ellas es verdadera. Existen varios tipos
 - Devolverá false si AMBAS expresiones son false.
 
 3- !: Es el operador “NOT” (“NO”).Este es el valor booleano opuesto de lo que se le pasa.
+
+
+Tabla de verdader
+
+p       q       p && q     p || q    !p
+true    true      true     false   false
+true    false     false    true    false
+false   true      false    true     true
+false   false     false    false    true
