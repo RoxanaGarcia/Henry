@@ -1,0 +1,4 @@
+Arrays Arreglos
+Son una lista de elementos ordenados. Pueden contener varios tipos de datos, (cadenas/strings, números y booleanos).
+
+
