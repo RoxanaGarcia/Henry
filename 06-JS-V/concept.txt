@@ -1,0 +1,8 @@
+prototype: Hace referencia al prototipo de la funcion constructora y 
+es utilizado para crear metodos (o funcion) de una funcion contructora de objetos.
+
+Constructors (de Clases): El constructor de una clase srve para crear e inicializar
+ un objeto creado a partir de una clase.
+ Si no especifica un método constructor, se utiliza un constructor predeterminado. 
+ Para las clases base, el constructor por defecto es:constructor() {}
+ Por el contrario sei se especifica puede este llevar argumentos o no.
